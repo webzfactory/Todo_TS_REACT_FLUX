@@ -1,0 +1,12 @@
+{
+  "name": "ASP.NET",
+  "private": true,
+  "dependencies": {
+    "react": "^0.14.6",
+    "requirejs": "^2.1.22",
+    "flux": "^2.1.1",
+    "eventEmitter": "git://github.com/Olical/EventEmitter.git",
+    "object-assign": "^4.0.1", 
+    "classnames": "^2.2.0"
+  }
+}
